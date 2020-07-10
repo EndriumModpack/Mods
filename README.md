@@ -9,4 +9,4 @@
 
 4- Jouer à Endrium ! → endrium.minesr.com
 
-By AlexM
+Par AlexM™
