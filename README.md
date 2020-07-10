@@ -8,3 +8,5 @@
 3- Déplacer touts les mods dans le dossier Minecraft mods (%appdata%/minecraft/mods)
 
 4- Jouer à Endrium ! → endrium.minesr.com
+
+By AlexM
